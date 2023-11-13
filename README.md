@@ -2,7 +2,8 @@
 
 This is a text editor that runs in the browser. Th app will be a single-page application that meets the PWA criteria. 
 Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options 
-is not supported by the browser. The application also functions offline, and can be installed as a standalone app.
+is not supported by the browser. The application also functions offline, and can be installed as a standalone app. 
+This application has been deployed via Railway!
 
 ## User Story
 
