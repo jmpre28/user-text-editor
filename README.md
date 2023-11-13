@@ -50,4 +50,4 @@ THEN I should have proper build scripts for a webpack application
 
 ## Link
 
-A link to the deployed application: <a href="user-text-editor-production.up.railway.app">JATE Text Editor</a>
+A link to the deployed application: user-text-editor-production.up.railway.app
